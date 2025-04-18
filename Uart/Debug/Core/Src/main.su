@@ -1,0 +1,7 @@
+../Core/Src/main.c:59:5:__io_putchar	16	static
+../Core/Src/main.c:85:5:main	8	static
+../Core/Src/main.c:171:6:SystemClock_Config	72	static
+../Core/Src/main.c:208:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:241:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:272:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:324:6:Error_Handler	4	static,ignoring_inline_asm
